@@ -1,0 +1,35 @@
+.pdesk:after {
+			content: "";
+		  	display: table;
+		  	clear: both;
+		}
+		.pdesk1{
+			float: left;
+		  	width: 18%;
+		  	padding: 10px;
+		  	margin-top: 25px;
+		}
+		.pdesk2{
+			float: left;
+		  	width: 33%;
+		  	padding: 10px;
+		  	margin-top: 25px;
+		  	text-align: justify;
+		}
+		.pdesk1 p{
+			font-size: 25px; 
+			color: #2F4F4F;
+		}
+		.pdesk2 p{
+			font-size: 25px; 
+			color: #2F4F4F;
+		}
+		.pdesk3{
+			float: right;
+		 	 width: 40%;
+		 	 padding: 0;
+		 	 margin-top: 0px;
+		 	 text-align: justify;
+		 	 font-size: 20px;
+		 	 margin: 25px;
+		}

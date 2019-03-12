@@ -1,0 +1,39 @@
+p{
+			color: #008080;
+		}
+		.pdesk:after {
+			content: "";
+		  	display: table;
+		  	clear: both;
+		}
+		.pdesk1{
+			float: left;
+		  	width: 20%;
+		  	padding: 0;
+		  	margin-top: 0;
+		  	margin-bottom: 0;
+		}
+		.pdesk2{
+			float: left;
+		 	 width: 20%;
+		 	 padding: 0;
+		 	 margin-top: 0px;
+		}
+		.pdesk3{
+			float: left;
+		 	 width: 20%;
+		 	 padding: 0;
+		 	 margin-top: 0px;
+		}
+		.pdesk4{
+			float: left;
+		 	 width: 20%;
+		 	 padding: 0;
+		 	 margin-top: 0px;
+		}
+		.pdesk5{
+			float: left;
+		 	 width: 20%;
+		 	 padding: 0;
+		 	 margin-top: 0px;
+		}
